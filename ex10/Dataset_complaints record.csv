@@ -1,0 +1,41 @@
+complaint_text,category
+I was charged an incorrect amount from my bank account,Banking
+I cannot access my bank account,Banking
+There is a problem with my bank transfer,Banking
+My account balance is incorrect,Banking
+The ATM charged me but I did not receive cash,Cash Withdrawal
+Cash was not received from the ATM,Cash Withdrawal
+The ATM kept my card,Cash Withdrawal
+I was charged a fee for withdrawing cash,Cash Withdrawal
+My credit card payment was not processed,Credit Card
+There is an unknown charge on my credit card,Credit Card
+I want to increase my credit card limit,Credit Card
+My credit card was declined,Credit Card
+Someone made an unauthorized transaction,Fraud
+I want to report a fraudulent transaction,Fraud
+There are transactions I did not make,Fraud
+My account was used without my permission,Fraud
+My loan application was rejected,Loan
+I am having difficulty paying my loan,Loan
+The interest rate on my loan is incorrect,Loan
+I need information about my loan payment,Loan
+I have a problem with my mortgage payment,Mortgage
+My mortgage account information is wrong,Mortgage
+I cannot make my mortgage payment,Mortgage
+I need help with my mortgage,Mortgage
+A debt collector is contacting me repeatedly,Debt Collection
+I received a debt collection letter for a debt I do not owe,Debt Collection
+The debt collector is asking for an incorrect amount,Debt Collection
+I want to dispute a debt collection,Debt Collection
+My credit report contains incorrect information,Credit Reporting
+I want to correct an error on my credit report,Credit Reporting
+There is an account on my credit report that is not mine,Credit Reporting
+My credit score changed because of incorrect information,Credit Reporting
+I have a problem with a prepaid card,Prepaid Card
+My prepaid card transaction failed,Prepaid Card
+Money is missing from my prepaid card,Prepaid Card
+My prepaid card was charged incorrectly,Prepaid Card
+I am having a problem with my student loan,Student Loan
+My student loan payment is too high,Student Loan
+I need help with student loan repayment,Student Loan
+My student loan account information is incorrect,Student Loan
